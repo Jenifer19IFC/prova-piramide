@@ -84,13 +84,5 @@ public class Piramide {
 	public String toString() {
 		return "Piramide [h=" + h + ", ab=" + ab + ", tipo=" + tipo + "]";
 	}
-	
 
-	
-	
-	
-	
-
-	
-	
 }
